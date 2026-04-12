@@ -19,7 +19,6 @@ software engineer · building things between coffee and commits
 - Built a Chrome extension that autofills job apps and tracks everything in a dashboard because spreadsheets weren't cutting it
 - Contributed to [Open Energy Dashboard](https://github.com/OpenEnergyDashboard/OED), an open-source energy analytics project
 - Worked on video analysis pipelines for salamander research with Ohio State
-- Looking for **SWE roles**
 
 ---
 
