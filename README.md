@@ -16,7 +16,7 @@ software engineer · building things between coffee and commits
 ### About me
 
 - Finishing up my **BAS in CS** @ Green River College (June 2026)
-- Built a Chrome extension that autofills job apps — because spreadsheets weren't cutting it
+- Built a Chrome extension that autofills job apps because spreadsheets weren't cutting it
 - Contributed to [Open Energy Dashboard](https://github.com/OpenEnergyDashboard/OED), an open-source energy analytics project
 - Worked on video analysis pipelines for salamander research with Ohio State
 - Looking for **SWE roles**
