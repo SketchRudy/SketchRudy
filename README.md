@@ -125,6 +125,6 @@ Pipeline that pulls motion and position data out of field footage for biology re
 
 <div align="center">
 
-*If it can be automated, it should be.*
+*There's no place like 127.0.0.1*
 
 </div>
