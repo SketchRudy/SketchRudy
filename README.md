@@ -2,17 +2,14 @@
 
 # Rudolf Sirbu
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=520&lines=Software+Engineer;Full-Stack+Developer;Chrome+Extension+Builder;Open+Source+Contributor)](https://git.io/typing-svg)
+software engineer · building things between coffee and commits
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rudolfsirbu)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudolfsirbu@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SketchRudy)
 
 </div>
 
 ---
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SketchRudy&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="320" />
 
 ### About me
 
@@ -21,8 +18,6 @@
 - 🧪 Contributed to [Open Energy Dashboard](https://github.com/OpenEnergyDashboard/OED), an open-source energy analytics project
 - 🔬 Worked on video analysis pipelines for salamander research with Ohio State
 - 🎯 Looking for **SWE roles**
-
-<br clear="right"/>
 
 ---
 
@@ -125,16 +120,10 @@ Pipeline that pulls motion and position data out of field footage for biology re
 
 </div>
 
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SketchRudy&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff)
-
-</div>
-
 ---
 
 <div align="center">
 
-*I build things I actually want to use. Currently open to SWE opportunities.*
+*Building things I use.*
 
 </div>
