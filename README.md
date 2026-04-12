@@ -2,6 +2,8 @@
 
 # Rudolf Sirbu
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=520&lines=Software+Engineer;Full-Stack+Developer;Chrome+Extension+Builder;Open+Source+Contributor)](https://git.io/typing-svg)
+
 software engineer · building things between coffee and commits
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rudolfsirbu)
@@ -13,11 +15,11 @@ software engineer · building things between coffee and commits
 
 ### About me
 
-- 🎓 Finishing up my **BAS in CS** @ Green River College (June 2026)
-- 🔨 Built a Chrome extension that autofills job apps — because spreadsheets weren't cutting it
-- 🧪 Contributed to [Open Energy Dashboard](https://github.com/OpenEnergyDashboard/OED), an open-source energy analytics project
-- 🔬 Worked on video analysis pipelines for salamander research with Ohio State
-- 🎯 Looking for **SWE roles**
+- Finishing up my **BAS in CS** @ Green River College (June 2026)
+- Built a Chrome extension that autofills job apps — because spreadsheets weren't cutting it
+- Contributed to [Open Energy Dashboard](https://github.com/OpenEnergyDashboard/OED), an open-source energy analytics project
+- Worked on video analysis pipelines for salamander research with Ohio State
+- Looking for **SWE roles**
 
 ---
 
@@ -115,8 +117,7 @@ Pipeline that pulls motion and position data out of field footage for biology re
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SketchRudy&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SketchRudy&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SketchRudy&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="55%" />
 
 </div>
 
@@ -124,6 +125,6 @@ Pipeline that pulls motion and position data out of field footage for biology re
 
 <div align="center">
 
-*Building things I use.*
+*If it can be automated, it should be.*
 
 </div>
