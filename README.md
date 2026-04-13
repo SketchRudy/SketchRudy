@@ -119,5 +119,3 @@ Pipeline that pulls motion and position data out of field footage for biology re
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SketchRudy&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="55%" />
 
 </div>
-
----
