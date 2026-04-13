@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=520&lines=Software+Engineer;Full-Stack+Developer;Chrome+Extension+Builder;Open+Source+Contributor)](https://git.io/typing-svg)
 
-software engineer · building things between coffee and commits
+software engineer · Tinkering with code
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rudolfsirbu)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudolfsirbu@gmail.com)
