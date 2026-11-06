@@ -14,9 +14,6 @@ software engineer · There's no place like 127.0.0.1
 ---
 
 ### About me
-
-- Finishing up my **BAS in CS** @ Green River College (June 2026)
-- Built a Chrome extension that autofills job apps and tracks everything in a dashboard because spreadsheets weren't cutting it
 - Contributed to [Open Energy Dashboard](https://github.com/OpenEnergyDashboard/OED), an open-source energy analytics project
 - Worked on video analysis pipelines for salamander research with Ohio State
 
